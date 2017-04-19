@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Project to list the courses in the Coursera website
 
-Things you may want to cover:
+The default search parameter is 'jhu'- which stands for john hopkins university
 
-* Ruby version
+visit the app on the following link:
+ https://coursera-list-jhu.herokuapp.com/
+ 
+You obtain a list of coursera courses containing the string jhu
 
-* System dependencies
+If you want to search for your own custom string
 
-* Configuration
+https://coursera-list-jhu.herokuapp.com/?looking_for=python
 
-* Database creation
+replace the python with your custom string
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Thank You!
